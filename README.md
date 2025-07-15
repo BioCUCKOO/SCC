@@ -2,7 +2,7 @@ The codes and models for DeepLearning-based algorithm.
 # The description of each source code
 
 ### Subtyping
-This folder contains data and files for subtyping in manuscript. The unet_sample.py and classify.py are used for cell nuclei and area recognition and classification. And xxx.py were further utilized for immune infiltration analysis. The DL_Subtyping.py was used for generating consistant molecular subtyping from proteomic, phosphoproteomic, transciptomic and clinical data.
+This folder contains data and files for subtyping in manuscript. The unet_sample.py and classify.py are used for cell nuclei and area recognition and classification. The DL_Subtyping.py was used for generating consistant molecular subtyping from proteomic, phosphoproteomic, transciptomic and clinical data.
 
 ### Marker
 This folder contains data and files for biomarker prediction in manuscripts. The DL_Marker.py was used for generating biomarker combinations for SI, SII and SIII subtypes.
