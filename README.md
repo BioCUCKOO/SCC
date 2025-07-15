@@ -1,17 +1,16 @@
-# DL
 The codes and models for DeepLearning-based algorithm.
 # The description of each source code
 
-### DL-Subtyping
+### Subtyping
 This folder contains data and files for subtyping in manuscript. The unet_sample.py and classify.py are used for cell nuclei and area recognition and classification. And xxx.py were further utilized for immune infiltration analysis. The DL_Subtyping.py was used for generating consistant molecular subtyping from proteomic, phosphoproteomic, transciptomic and clinical data.
 
-### DL-Marker
+### Marker
 This folder contains data and files for biomarker prediction in manuscripts. The DL_Marker.py was used for generating biomarker combinations for SI, SII and SIII subtypes.
 
-### DL-Kinase
+### Kinase
 This folder contains data and files for actionable kinase prediction in manuscripts. The DL_Kinase.py was used for generating tumor-specific kinases and subtype-specific kinases.
 
-### DL-SCSP
+### SCSP
 This folder contains data and files for single cell spatial proteome analysis in manuscripts. The seurat.R was used for generating the initial clusters from cell nuclei image features. The NMF_final.py was used for generating the profile of SCSP. 
 
 # Computation Requirements
